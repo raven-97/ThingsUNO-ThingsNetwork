@@ -49,7 +49,7 @@ eg: for europe Replace REPLACE_ME with TTN_FP_EU868 or TTN_FP_US915 for USA.
 In India the freqPlan is TTN_FP_IN865_867.
 
 You will get the nwkSKey, devAddr,appSKey from the TTN website after you registered your device.
-Updaet those values in the program.
+Update those values in the program.
 
 
 
